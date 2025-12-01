@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 a=int(input("enter a:"))
 b=int(input("enter b:"))
 print("Reciprocal values in range (a,b):")
