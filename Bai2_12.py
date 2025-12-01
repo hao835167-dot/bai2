@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 import re
 def kiem_tra_mat_khau(password):
     if len(password) < 6 or len(password) > 12:
