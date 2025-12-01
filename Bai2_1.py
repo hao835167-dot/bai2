@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 n1=int(input("enter n1 value"))
 n2=int(input("enter n2 value"))
 if n1>n2:
